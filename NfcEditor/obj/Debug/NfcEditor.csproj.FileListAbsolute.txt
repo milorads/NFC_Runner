@@ -1,0 +1,41 @@
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\bin\Debug\NfcEditor.exe.config
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor.csprojResolveAssemblyReference.cache
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\Views\MainWindow.g.cs
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\App.g.cs
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor_MarkupCompile.cache
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor_MarkupCompile.lref
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\bin\Debug\NfcEditor.exe
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\bin\Debug\NfcEditor.pdb
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\Views\MainWindow.baml
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor.g.resources
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor.Properties.Resources.resources
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor.csproj.GenerateResource.Cache
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor.exe
+C:\Users\msekulovic\Desktop\NFC Editor\C#\NfcEditor\obj\Debug\NfcEditor.pdb
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\NfcEditor.exe.config
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor.exe
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor.pdb
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\NfcEditor.exe
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\NfcEditor.pdb
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\Views\MainWindow.g.cs
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\App.g.cs
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor_MarkupCompile.cache
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor_MarkupCompile.lref
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\Views\MainWindow.baml
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor.g.resources
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor.Properties.Resources.resources
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor.csproj.GenerateResource.Cache
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\bin\Debug\Assets\nfc.ico
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor_Content.g.cs
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor.csproj.ResolveComReference.cache
+C:\Users\msekulovic\Documents\Visual Studio 2015\Projects\NFC_Editor\NfcEditor\obj\Debug\NfcEditor.csprojResolveAssemblyReference.cache
